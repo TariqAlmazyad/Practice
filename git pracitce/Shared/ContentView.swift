@@ -19,3 +19,7 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
+
+final class ViewModel: ObservableObject {
+    
+}
